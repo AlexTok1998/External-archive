@@ -1,0 +1,34 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 50px 50px;
+
+    text-align: center;}
+.background1{
+	background:saddlebrown;height: 800px;width: 400px;
+}
+.text{
+	font-size:20px;
+	color:yellow;
+}
+.title{
+
+}
+.bt1{
+	background: orange;margin-bottom: 20px;width: 50%;overflow: hidden;
+  text-overflow: ellipsis;
+}
+.bt2{
+	background:saddlebrown;margin-bottom: 20px;width: 50%;overflow: hidden;
+  text-overflow: ellipsis;
+}
+.bt3{
+	background:orange;margin-bottom: 20px;width: 50%;overflow: hidden;
+  text-overflow: ellipsis;
+}
+.background2{
+background: orange;height:800px; 
+}
+.background3{
+	background:darkred;margin-top:-50px;height: 800px;
+}
